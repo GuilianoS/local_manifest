@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <!-- Trees -->
+ <project path="device/asus/A001D" name="GuilianoS/android_device_A001D.git" remote="github" revision="lineage-18.1" />
+ <project path="vendor/asus/A001D" name="GuilianoS/vendor_asus_A001D.git" remote="github" revision="lineage-18.1" />
+ <project path="kernel/asus/A001D" name="GuilianoS/kernel_asus_A001D.git" remote="github" revision="11" />
+</manifest>
